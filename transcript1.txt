@@ -1,0 +1,495 @@
+0:0:30 - 0:0:45: m
+0:0:45 - 0:0:53: s
+0:0:53 - 0:0:55: Hola.
+0:0:55 - 0:0:57: Me he vaido.
+0:0:57 - 0:0:59: Que más.
+0:0:59 - 0:1:3: Lao, un fa.
+0:1:5 - 0:1:7: Si claro, cuéntame.
+0:1:7 - 0:1:13: Lao, ¿tú podrías porfa esta reunión de AT, esta que es cada 15 días con la de riesgos,
+0:1:13 - 0:1:19: colocarla de 1,5 horas y la de riesgos también, o sea hasta las 10 y media esta?
+0:1:19 - 0:1:23: Ya, ¿la serie completa o solamente la de hoy?
+0:1:23 - 0:1:25: No, la serie.
+0:1:25 - 0:1:31: O sea, esta sería de 9 a 10 y media.
+0:1:31 - 0:1:35: Y la de riesgos de 10 y media a 12.
+0:1:35 - 0:1:37: Ok.
+0:1:37 - 0:1:43: Si, eso lo hablamos con Alberto hace parte de semanas porfa.
+0:1:43 - 0:1:47: Gracias, Laurita.
+0:1:47 - 0:1:49: Gracias, Laurita.
+0:1:49 - 0:1:51: Ya se, ¿tú estás en la sala?
+0:2:7 - 0:2:9: Ya se.
+0:2:17 - 0:2:19: Ya se.
+0:2:47 - 0:2:49: Ya se.
+0:3:17 - 0:3:19: Ya se.
+0:3:47 - 0:3:49: Ya se.
+0:4:17 - 0:4:19: Ya se.
+0:4:47 - 0:4:49: Ya se.
+0:5:17 - 0:5:41: Laurita, la de riesgos hasta las 12, porfis, o sea de 10 y media a 12 que queda también 1,5 horas.
+0:5:41 - 0:5:43: Hola, Alberto.
+0:5:47 - 0:5:49: Hola.
+0:5:49 - 0:5:51: Listo.
+0:5:51 - 0:5:53: Me escuchan?
+0:5:53 - 0:5:58: Yo te escucho.
+0:5:58 - 0:6:0: Hola, ¿me?
+0:6:0 - 0:6:2: Buenos días.
+0:6:2 - 0:6:5: Es que en la sala no me escuchan, ¿cierto?
+0:6:5 - 0:6:8: Creo que hay como problemas, bueno, están como en mute, más bien.
+0:6:8 - 0:6:10: Ah.
+0:6:10 - 0:6:14: Estamos con el equipo de Yastro, ¿de quién?
+0:6:14 - 0:6:16: Sí.
+0:6:16 - 0:6:21: Ahí está, trayendo el micrófono.
+0:6:21 - 0:6:27: Sí, me escucho.
+0:6:27 - 0:6:36: Como que ahora sí nos escuchamos en la sala.
+0:6:36 - 0:6:38: Buenos días.
+0:6:38 - 0:6:40: Buenos días.
+0:6:40 - 0:6:42: Buenos días.
+0:6:42 - 0:6:44: ¿Cómo están?
+0:6:44 - 0:6:46: Muy bien.
+0:6:46 - 0:6:48: ¿Y los medios?
+0:6:48 - 0:6:54: Creo que es para tocar que no te dejas hablar.
+0:6:54 - 0:6:59: El micrófono no le sirve, a este cable no le sirve el tema del sonido.
+0:7:10 - 0:7:22: ¿Ovieron más escuches?
+0:7:22 - 0:7:24: Sí.
+0:7:24 - 0:7:28: La cuestión es para que ellos, para que nosotros lleguemos a ellos.
+0:7:28 - 0:7:32: No, espera.
+0:7:32 - 0:7:34: ¿Compartas tú?
+0:7:34 - 0:7:41: A ese le sirve porque es que a mí como talón no le sirve el speaker.
+0:7:41 - 0:7:43: O sea, no se escucha tanto.
+0:7:43 - 0:7:53: La idea es que, por ejemplo, yo entro en una emisión y comparto, verdad, porque yo tengo los que compartían.
+0:7:53 - 0:7:56: Y con el tuyo...
+0:7:56 - 0:8:1: Y tú serías el audio y el micrófono.
+0:8:1 - 0:8:3: ¿Y tú?
+0:8:3 - 0:8:8: Ya se puede acomodar la pantalla que no se ve.
+0:8:8 - 0:8:22: Es que no se ve en la sala, en la pantalla, movieron el computador.
+0:8:22 - 0:8:28: Movieron el computador y no se ve.
+0:8:28 - 0:8:33: No dejando el problema del cable.
+0:8:33 - 0:8:38: O si no, cada uno que vaya a hablar, se abre el micrófono y ya.
+0:8:38 - 0:8:43: Yo voy a hablar por acá a las 12, abré su micrófono y te cierran allá para que puedan escuchar.
+0:8:43 - 0:8:46: Y dejamos el altavoz del televisor.
+0:8:46 - 0:8:50: No, es que el cable no le permite el altavoz.
+0:8:50 - 0:8:53: Ah, el computador entonces.
+0:8:53 - 0:8:56: Lo rolamo ahí.
+0:8:56 - 0:9:0: Sería que uno que suene fuerte y dejarlo sonar.
+0:9:13 - 0:9:16: En unos días ahí se me escuchan.
+0:9:16 - 0:9:18: Sí, perfecto.
+0:9:18 - 0:9:19: ¿Cómo estás?
+0:9:19 - 0:9:22: Bien. ¿Ustedes escuchan allá, en altavoz?
+0:9:22 - 0:9:24: Sí.
+0:9:26 - 0:9:29: Esto se escucha alto.
+0:9:30 - 0:9:33: Aquí escuchamos bien.
+0:9:34 - 0:9:36: Ah, más tú escuchas bien, ¿cierto?
+0:9:36 - 0:9:39: Sí, sí, ahí estoy escuchando perfecto.
+0:9:39 - 0:9:40: Ok.
+0:9:40 - 0:9:44: Hacemos así, cada quien abre su micrófono y...
+0:9:44 - 0:9:48: Yo creo que este micrófono no se puede, este tema de que escuchamos ahí.
+0:9:48 - 0:9:50: Ah.
+0:9:50 - 0:9:52: Sí, bueno.
+0:9:52 - 0:9:55: Pero nos están escuchando, ya sé.
+0:9:56 - 0:9:58: ¿O no?
+0:9:59 - 0:10:4: No sé, ¿nos escuchan? No sé, dame la verdad, ya ni sé.
+0:10:7 - 0:10:11: Alberto, ¿muchas son? ¿Nos escuchan?
+0:10:20 - 0:10:23: ¿Nos están escuchando?
+0:10:24 - 0:10:26: Ah, se te escucha bien.
+0:10:26 - 0:10:28: A ti sí, se escucha.
+0:10:28 - 0:10:32: Cierto, pero no sé si lo de la sala nosotros no se escuchan.
+0:10:32 - 0:10:35: ¿Cris, tú no se escuchas?
+0:10:35 - 0:10:39: Sí, yo escucho bien. Hola Fabiola. Sí, yo escucho bien.
+0:10:39 - 0:10:41: ¿Y tú?
+0:10:41 - 0:10:43: Yo escucho bien.
+0:10:43 - 0:10:45: ¿Y tú?
+0:10:46 - 0:10:49: Sí, yo escucho bien. Hola Fabiola. Sí, yo escucho bien.
+0:10:49 - 0:10:51: Hola.
+0:10:51 - 0:10:53: Hola.
+0:10:54 - 0:10:59: Bueno, listo. ¿Llamamos inicio? ¿Podemos dar inicio?
+0:10:59 - 0:11:1: Sí, ya llamo.
+0:11:5 - 0:11:7: Está lejísimo.
+0:11:8 - 0:11:12: Bueno, no sé si me escuchan o no, la verdad.
+0:11:13 - 0:11:16: Sí, sí, sí, ahora escuchamos.
+0:11:16 - 0:11:22: Se escucha re lejos, ustedes los escucho re lejos. Bueno, pero si me escuchan bien, hagámosle.
+0:11:23 - 0:11:25: Bueno, buenos días para todos.
+0:11:25 - 0:11:27: Llamo bien.
+0:11:28 - 0:11:40: Un favor, Laura o alguno de los de Afinia que estén conectados, si me ayudan por favor a iniciar la grabación de esta sesión para el acto.
+0:11:42 - 0:11:43: Listo.
+0:11:43 - 0:11:45: Porfis. Gracias.
+0:11:48 - 0:11:50: Bien.
+0:11:52 - 0:12:2: Bueno, de los primeros puntos que quiero que toquemos el día de hoy es lo que tiene que ver con la planeación del 2024 al 2026.
+0:12:2 - 0:12:16: Entonces, al respecto, debemos mirar varias cosas que ya empezamos a revisarlas con algunos de ustedes y ahí sí te pido el favor, Alberto, que me ayudes si es uno al respecto al presupuesto.
+0:12:17 - 0:12:23: Entonces entiendo que tú estás revisando, ¿no? ¿Cómo lo vamos a llevar?
+0:12:25 - 0:12:27: Gracias.
+0:12:28 - 0:12:34: Hoy, hoy, hoy estamos ya en el, ya tenemos una revisión ahí, pero si me da.
+0:12:35 - 0:12:36: Alberto.
+0:12:36 - 0:12:37: ¿Alberto?
+0:12:37 - 0:12:38: Alberto.
+0:12:39 - 0:12:42: No te escucho. Te escucho lejísimos.
+0:12:42 - 0:12:45: Sí, sí, sí, me quedo como ahí en bojante.
+0:12:47 - 0:12:48: ¿Hola?
+0:12:48 - 0:12:49: Hola.
+0:12:49 - 0:12:50: Eso escucho.
+0:12:51 - 0:13:1: Laura, ¿tú cómo escuchas? Yo los escucho lejos, lejos. Hace rato que hablaste te escuchamos bien, pero en este momento se escuchan muy lejos.
+0:13:8 - 0:13:11: Y el micrófono. Ah sí, ahí veo que lo tengo.
+0:13:11 - 0:13:13: ¿Quieres que el micrófono haya ayuda, Alberto?
+0:13:14 - 0:13:15: Ya, Alberto, ahora sí.
+0:13:15 - 0:13:16: Ya, Alberto, ahora sí.
+0:13:16 - 0:13:19: Ah, ok. Por eso escucho en el córner.
+0:13:20 - 0:13:21: Como decía, agarra tú.
+0:13:21 - 0:13:22: Sí.
+0:13:23 - 0:13:24: Sí.
+0:13:25 - 0:13:26: Ah, te conectas tú.
+0:13:26 - 0:13:28: Para que vaya.
+0:13:50 - 0:13:51: Ya.
+0:14:11 - 0:14:12: Ya.
+0:14:20 - 0:14:28: ¿Y si qué? ¿Y si intentamos hablar desde tu computadora en este momento, Alberto, y colocar en mi UDL de jazz?
+0:14:35 - 0:14:36: La escuchamos.
+0:14:38 - 0:14:39: Ahí se me escuchan.
+0:14:39 - 0:14:40: Sí, ya.
+0:14:43 - 0:14:47: Tocaba abrir el micrófono entonces del computador para poder...
+0:14:51 - 0:14:53: Entonces, no, sí.
+0:14:53 - 0:14:56: Yo le estaba comentando sobre el tema del presupuesto, ¿no?
+0:14:57 - 0:14:58: Sí, mío.
+0:14:58 - 0:15:12: La planeación del 26. No, sí, estamos ahí revisando hoy y una tarde después de ir a seguir con esa evaluación, como le comenté el viernes, y ahí te estaría comentando ver cómo lo podríamos hacer, ¿verdad?
+0:15:13 - 0:15:14: Vale.
+0:15:14 - 0:15:15: Listo.
+0:15:15 - 0:15:17: Lo otro que tiene que ver también con la planeación es...
+0:15:17 - 0:15:36: Le pedimos el favor a todos los líderes de proyecto que durante esta semana se revisen en los cronogramas que todos los proyectos entre paréntesis requerimientos del PI del 24 al 26 se encuentren en los cronogramas de trabajo que ya están hechos, ¿sí?
+0:15:37 - 0:15:45: Si alguno de ustedes ve que hay algún requerimiento que no se encuentra en el cronograma, por favor, me lo hacen saber.
+0:15:49 - 0:15:52: Eso incluye también las unidades constructivas, ¿vale?
+0:15:53 - 0:16:6: Y lo otro que tiene que ver con el tema de la planeación es todo lo relacionado a lo que se requiere de cada uno de los proyectos respecto al cronograma transversal.
+0:16:7 - 0:16:13: La semana pasada inicié a revisar... bueno, inició, no.
+0:16:13 - 0:16:29: Hicimos una reunión con Miguel Valencia en la cual hicimos una... ya empezamos a hacer el cronograma transversal y se... por parte de Miguel ya se tienen identificado unos contratos y necesidades, entonces la idea es hacer...
+0:16:30 - 0:16:35: Alberto, ¿tú les querías comentar cuál fue tú o qué es lo que tú propones?
+0:16:37 - 0:16:51: No, digamos que la idea es que todos los cronogramas ya estén hasta el 26, por lo menos la primera parte de lo que toca hacer es validar lo que decía Fabiola, que todos los requerimientos o proyectos se encuentren en los cronogramas, en los cinco cronogramas,
+0:16:52 - 0:17:5: para de allí poder identificar cuáles son los procesos que se requieren para poder sentarme ahí con Fabiola a revisar el tema del cronograma transversal, digamos ahí voy a estar ahí con Fabiola revisando este tema.
+0:17:5 - 0:17:13: Obviamente con el apoyo de los líderes viendo que no se nos queda por fuera ningún proceso de contratación para todos los proyectos.
+0:17:14 - 0:17:26: Pero lo primero, lo que entendí, lo que conversé con Fabiola el viernes es que para el caso de Miguel, el caso de José, pues digamos todos los proyectos ya están dentro del cronograma, ¿sabes?
+0:17:26 - 0:17:40: Es lo que entiendo, no sé si el pronto también de Cristian, creo que están todos los viajes cronogramas, hacía falta el, bueno el de control y protección también solamente estaba pendiente era el de amplación y reposición, ya?
+0:17:41 - 0:17:57: De todo modo el comentario que hace Fabiola es como no estar en el sentido de que revisar Miguel o Cristian si de pronto efectivamente no hay nada que se esté escapando, hace como una última verificación, pero entiendo que en el caso de usted ya está a dar andá.
+0:17:57 - 0:18:26: Miguel, Daniel tiene ese trabajito ahí con Antonio esta semana, terminar ya, ya solo hablamos el viernes de terminar de dejar ese cronograma listo para poder entrar a revisar el tema de los procesos de contratación cada vez cuando tengamos el transversal que la próxima semana lo tengamos ya por lo menos ya definido para poder tener todos los procesos de contratación de todos los proyectos.
+0:18:27 - 0:18:56: Y obviamente ahí vamos a, ya nosotros tenemos ahí como una estrategia de contratación, algunas ya son definidas por lo menos los que llevan las actas de la DT, pues eso ya con cada líder lo podemos revisar, por ahí hay unas que son muy particulares donde en el momento que esté ahí con Fabiola revisándolo, por cualquier duda que surja pues lo llamaremos y luego se revisan con un proyecto de DT, por lo menos el tema de la celda, el tema de la estructura metálica,
+0:18:57 - 0:19:15: cosas que van avanzando, pero hay otras que pronto están pendientes como definición, que es lo que vamos a entrar a revisar cuando estén todos los cronogramas. La idea es, lo que tenemos, la meta que hemos propuesto es que la próxima semana ese cronograma transversal esté ya por lo menos finalizado.
+0:19:16 - 0:19:17: Exacto.
+0:19:17 - 0:19:37: Y digamos que esa es como la ruta, la ruta que tenemos para poder ya, la otra parte que viene es el presupuesto, que eso sí es algo que yo le comentaba a Meia Fabiola, que tengo un poco más demorado y que por lo menos yo personalmente no lo veía tenerlo listo para la próxima semana.
+0:19:37 - 0:20:7: Ahí con AME estuvimos conversando de una estrategia de ver si podríamos tener valver globales y eso, pero al final lo que vamos a hacer es adelantar el trabajo, ver cómo lo podemos hacer, pero vamos a reunir todos los líderes hoy en la tarde un momentito nos reunimos a ver cómo encontramos las mejores estrategias para poder hacer este ejercicio, que sería como la última parte para poder ya tener todo planificado, cronogramas de los proyectos, cronogramas de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de
+0:20:7 - 0:20:16: las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras, de las estructuras,
+0:20:21 - 0:20:23: Van tiramaria de las Navigaciones.
+0:20:26 - 0:20:27: Gracias Alberto.
+0:20:29 - 0:20:30: Gracias.
+0:20:31 - 0:20:31: Bueno,
+0:20:31 - 0:20:41: de los avances de los proyectos y al final de la reunión les les les que al final de la reunión Alberto no sé si tú ya pudiste revisar
+0:20:41 - 0:20:53: respecto a lo que hablamos la semana pasada hace ocho días en cuanto a cómo se va a realizar el avance en los proyectos
+0:20:54 - 0:21:4: después de lo que se habló de la reunión de aseguramiento de las visitas que se hicieron a campo si, entonces si tú ya revisaste con los líderes de cuál era la mejor manera
+0:21:4 - 0:21:8: si quieres, si ya lo tienes revisado, ¿tú me lo puedes comentar?
+0:21:9 - 0:21:37: Sí, sí, vamos a actualizar en la actividad madre precisamente por lo que conversamos de que el cronograma detallado de la obra digamos no se habla o no a nivel de detalle con el que tenemos nosotros acá en la plataforma nunca nos va a cuadrar y eso podría pronto generar muchas diferencias entonces la idea es que lo sigamos haciendo como lo hemos venido realizando de colocar porcentaje en la actividad madre
+0:21:37 - 0:22:0: esto digamos teniendo en cuenta que pudiera generar mucho trabajo a la hora de actualizar sobre todo para el cronograma de amplación y repudición yo pienso que sería muy lo estuve analizando y mirando y sería muy complejo entonces la idea es que lo sigamos realizando esa es la propuesta de nosotros porque sería muy complejo la verdad
+0:22:0 - 0:22:27: ok pero sería solamente para ese cronograma o no para todos para todos cronogramas por lo menos para el caso de miga también le va a pasar lo mismo el cronograma de línea en la parte de obra civil y montaje el cronograma que lleva el contratista es muy distinto en la parte de obra civil y montaje de lo que lleva en el cronograma de la plataforma entonces a todos les digamos tienen la misma situación
+0:22:30 - 0:22:34: otro mi detallado el de ahora mi detallado
+0:22:36 - 0:22:41: ok vale listo lo tendemos entonces en cuenta
+0:22:41 - 0:23:4: si ahora amelo que yo te comentaba ese día si de pronto ustedes quieren hacer alguna validación pues nosotros no tenemos ningún ningún inconveniente de mostrar el cronograma detallado de la obra para ver si de pronto alguna actividad se quiere envalidar digamos como a su porcentaje en sitio en campo alguna de esas revisiones o de todo lo que ustedes están haciendo pues podríamos hacerlo de esa manera
+0:23:5 - 0:23:8: vale no perfecto perfecto está bien
+0:23:11 - 0:23:12: listo
+0:23:15 - 0:23:20: listo gracias bueno ya ser tienes listo para compartir pantalla por favor
+0:23:24 - 0:23:25: si pabe
+0:23:25 - 0:23:26: listo
+0:23:35 - 0:23:37: entonces
+0:23:37 - 0:23:38: es
+0:23:39 - 0:23:42: cual projecto es ese ya sé
+0:23:43 - 0:23:47: podemos comenzar por favor con con líneas
+0:23:49 - 0:23:53: para yo ahora me diga esta es un momento empecemos con el de daniel
+0:23:53 - 0:23:59: bueno entonces bueno listo entonces con el que estabas ya sé con el de transformadores
+0:23:59 - 0:24:2: listo listo dani nos
+0:24:2 - 0:24:5: cuentas por favor como nos fue esta semana
+0:24:7 - 0:24:9: sí
+0:24:26 - 0:24:28: sí me escucharon dani
+0:24:30 - 0:24:32: no me pico pabe
+0:24:32 - 0:24:39: pabe aquí me escuchas ya ahora sí
+0:24:39 - 0:24:42: ok
+0:24:46 - 0:25:1: bueno este ahí básicamente san felipe mandinguilla y arjona están son los proyectos que están con el tema del proceso el shelter que al jueves en el comité de contratación
+0:25:1 - 0:25:13: pues fueron aprobados estos procesos de shelter celdas 2023 equipos de patio entonces de igual forma esos porcentajes que me marcas san felipe arjona y mandinguilla específicamente
+0:25:14 - 0:25:26: son asociados pues al proceso del shelter sí corosal bueno corosal está pendiente del tema de la visita técnica y la parte de las celdas para el nuevo circuito corosal 4
+0:25:26 - 0:25:56: en su estación nueva montería que bueno hablamos de que éstos eran eran proyectos que se habían trasladado su fecha puesta en servicio lo que era nueva montería todo lo viejo planeta rico y san branjo pero nos dimos cuenta de que efectivamente en el cronograma esa puesta en servicio si estaba para 2025 24 o nueva montería pero entonces la idea que vamos a hacer la reunión que tenemos favi yo esta tarde es lo cite o sea identificar qué actividades que tenemos que hacer para que la gente pueda tener una visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de la visita a la vez de
+0:25:56 - 0:26:2: a vez de合理
+0:26:4 - 0:26:10: s
+0:26:14 - 0:26:21: e
+0:26:21 - 0:26:51: སོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོོ
+0:26:51 - 0:26:57: ཮ວ་གຓຂ� Vous Mere谢谢ippy��ຣୂ຋ ་�нейກཛྷ� Agora
+0:26:57 - 0:27:7: རັຍຍ ཬົ຀ཟ໛ຢ່�ykതོຉັ ༫ິเ ཙຣຽຂเตຕಈ� begilläse
+0:27:7 - 0:27:15: མམ སལ�?? ଑�ll?
+0:27:15 - 0:27:19: Saya
+0:27:19 - 0:27:23: Con
+0:27:23 - 0:27:26: How
+0:27:26 - 0:27:30: Okay
+0:27:30 - 0:27:60: — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —
+0:27:60 - 0:28:12: — — — — naj
+0:28:15 - 0:28:22: — — — — —
+0:28:22 - 0:28:38: ndani, ndani espera, una pregunta, una pregunta, tu mencionaste, o bueno, más bien dos preguntas, la primera, tu mencionaste en Arihuani el lote, ¿si?
+0:28:39 - 0:28:45: ese lote, o sea, ¿se requiere y eso ya está en gestión con inmobiliario?
+0:28:46 - 0:29:1: no, no, este lote, es el tema Alberto, ya yo estoy trabajando en eso con Madmet, una subestación que está como en la mitad de una vía, está muy cerca de una vía, en realidad su estación,
+0:29:1 - 0:29:7: pero tiene que colocar un tercero, o no, es una estación de vía que está ahí con la mitad,
+0:29:7 - 0:29:28: en realidad hoy la intención es que, pues con un tercero, claro que están construyendo una vía de cada área nacional dentro de la conciencia de área que el tercero, pero está en el que está todo bien, que el tercero consigue un predio para poder desplazar la subestación y entonces está en esquema.
+0:29:37 - 0:30:5: en el óptico está muy cerca de la base y tocaban tirar un poquito más, pero ahí no dejan trabajar la comunidad, no dejan trabajar nada de la comunidad y tampoco es que se pueda enarmar mucho ahí, en principio en el proyecto empresa esa subestación no se ha concentrado ni un poquito más del lote, ni cerrar bien, pero ahora las líneas nuevas ni trabajar ahí, ni tampoco dejan hacer el cerramiento dinar, es un tema como social y también de lote, de gente de la base.
+0:30:7 - 0:30:11: Esto hace falta un picazo, no?
+0:30:11 - 0:30:13: Pero el tercero tiene que ubicar todo se va a dar.
+0:30:13 - 0:30:16: Sí, vamos a adquirir el lote.
+0:30:16 - 0:30:45: Sí, hoy dentro de las responsabilidades que se tienen, que el tercero va, de hecho ya se hizo una ingeniería previa, el tercero ya va adelantando en cuanto al trámite de la compra del lote y demás pero finalmente digamos que eso se ha descansado y no hemos tenido ningún tipo de retroalimentación, adelantamos todo lo que tiene que ver con el retenimiento de la línea, que fue que hicimos la reunión aquí, te cuelgo en ese espacio y se dejó de lado momentáneamente todo lo que tiene que ver con la subestación.
+0:30:45 - 0:30:53: Vamos a hacer este tema tenemos que revisar todo el espacio, aparte del todo el tiempo, ellos también quieren el lote y la subestación la tenemos nosotros.
+0:30:53 - 0:31:6: La subestación ahí nos compromiso en ser más parte, o sea ellos hacen una parte civil, pero no sobra, pero lo que entiendo a Líchalo es que hoy realmente no...
+0:31:6 - 0:31:17: O sea, esta empresa que contemplaba cambio de trabajo en realidad era quitar y poner su aparición, tocábamos esto un poquito más y esto un poquito más nos muda ahí.
+0:31:17 - 0:31:29: Lo que te digo es que lo que vamos a hacer es que vamos a hacer el correo diciendo que hay esta problemática en la subestación del lote y tal,
+0:31:29 - 0:31:39: teniendo ya planificaciones, porque entre todo que hacemos es ser rellenados y se espera este entonces, porque hay una decisión al final de todo.
+0:31:40 - 0:31:56: Una apreciación ahí, si el lote lo consigue el tercero, pero entonces lo que son los trámites, digamos las licencias, lo que tramita Gustavo, eso sí sería parte a fin y a la responsabilidad?
+0:31:57 - 0:32:3: O sea, el tercero...
+0:32:3 - 0:32:11: Ellos están gestionando como parte de lo que solo necesitamos, todo lo que tiene que ver con los permisos de suelo y demás, todo esto se lo estamos haciendo.
+0:32:11 - 0:32:16: Si tienes un proyecto de esa vía y quieres que encuentras las licencias especiales, te lo necesitas.
+0:32:17 - 0:32:20: Bueno, o sea es importante...
+0:32:20 - 0:32:25: Lo que nosotros deberíamos hacer ahí nomás, eh, cuando vienen las posiciones de este, es poner el transfer sándar.
+0:32:27 - 0:32:31: El proyecto con un tablet con una reposición de tabs.
+0:32:32 - 0:32:33: Ok.
+0:32:34 - 0:32:37: Hola, digamos que resumen...
+0:32:41 - 0:32:43: En resumen...
+0:32:47 - 0:32:48: ¿Este micrófono está abierto?
+0:32:48 - 0:32:50: Sí, sí, te escucho.
+0:32:51 - 0:32:58: No, el tema de Arihuaní, en conclusión, yo creo que tenemos que hacer una reunión con Planificación para...
+0:32:59 - 0:33:6: Vamos a enviar inicialmente un correo, Luis Carlos va a mandar ese correo, digamos informando lo que se encontró en la viabilidad y todo lo demás, etc.
+0:33:6 - 0:33:15: Para que ellos tengan ese tema presente de la, digamos, la problemática que hay con este proyecto con respecto al lote y al proyecto que tiene el tercero.
+0:33:16 - 0:33:18: Entonces...
+0:33:19 - 0:33:22: Para que te anotes ahí como que, como ese compromiso.
+0:33:23 - 0:33:29: Porque pues tenemos esa situación ahí en esa subestación porque el proyecto solamente es reposición de transformado.
+0:33:30 - 0:33:39: Entonces hay que revisarlo bien porque la comunidad no deja ampliado los corticos, lo que hay que hacer ahí y eso sí, ya tenemos que levantar la mano.
+0:33:41 - 0:33:44: Ok, vale, gracias.
+0:33:45 - 0:33:46: Gracias.
+0:33:50 - 0:33:52: Néstor, Dani.
+0:33:55 - 0:33:56: Listo.
+0:33:56 - 0:33:57: A la segunda.
+0:33:57 - 0:33:58: Sí, a la segunda.
+0:34:2 - 0:34:3: Sigue.
+0:34:3 - 0:34:5: Bueno, Maracaio.
+0:34:6 - 0:34:21: Está pendiente pues el informe de la visita que ya realizaron y ahí está pues también marcando la desviación, el tema de las celdas que también entró en ese, en esa aprobación que hubo en el comité de contratación el jueves pasado.
+0:34:21 - 0:34:30: Aplica también el tema de la reunión de prevención que podríamos adelantar cuando saliera lo de la carta de contrato, ¿cierto?
+0:34:30 - 0:34:31: Lo de la celda.
+0:34:31 - 0:34:33: Sí, también aplica, listo.
+0:34:33 - 0:34:37: Eso es lo que está marcando ahí en Maracaio San Pelayo.
+0:34:38 - 0:34:48: Está atrasado, ya debería ir por su ingeniería básica y estamos pues apenas revisando los informes técnicos de la visita que realizó el contratista.
+0:34:49 - 0:34:55: Sucre está marcando la desviación pues la ingeniería de control y protección.
+0:34:56 - 0:35:12: Creo que Toluviejo entra en la subestación, bueno esa ya la revisamos Javi, fue la primera que vimos la semana pasada con los ítems que pues podríamos adelantar este año, pero es una subestación que tiene fecha de puesta en operación del 2024.
+0:35:12 - 0:35:13: ¿Cuánta Toluviejo?
+0:35:13 - 0:35:14: Toluviejo, sí.
+0:35:16 - 0:35:21: La estuvimos revisando en conjunto con Luis Carlos esta semana que pasó y pues sí.
+0:35:21 - 0:35:23: ¿Qué viene ahí?
+0:35:23 - 0:35:29: Valencia de Jesús, bueno Valencia está marcando la parte de las celdas también y está marcando la ingeniería básica.
+0:35:29 - 0:35:31: ¿La ingeniería básica o del control?
+0:35:31 - 0:35:34: No, en las celdas, que también ya debería ir.
+0:35:34 - 0:35:36: ¿Cuál es su proyecto del viernes de las dos meses?
+0:35:37 - 0:35:44: Pero vamos a poner bien rápido la carta de contrato a ver para llamarlo para que ese ítem que está generando atrás no se logre.
+0:35:44 - 0:35:45: Exacto.
+0:35:45 - 0:35:50: Así es, tengo Y, ¿qué viene ahí?
+0:35:50 - 0:35:51: Chino planta.
+0:35:51 - 0:35:53: Bueno Chino planta.
+0:35:54 - 0:35:58: Pero ahí lo que está marcando es la celda, que es una oferta única.
+0:35:58 - 0:36:1: Más que todo, Pippin, todo lo que está marcando es la celda, correcto.
+0:36:3 - 0:36:5: ¿Qué viene ahí? La Y.
+0:36:5 - 0:36:7: La Y, las celdas.
+0:36:7 - 0:36:10: El tema de las celdas también.
+0:36:10 - 0:36:11: ¿Y?
+0:36:11 - 0:36:13: El tema de las celdas.
+0:36:13 - 0:36:14: ¿Y?
+0:36:14 - 0:36:15: La Y, las celdas.
+0:36:15 - 0:36:16: ¿Y?
+0:36:16 - 0:36:18: La Y, las celdas.
+0:36:18 - 0:36:20: La Y, las celdas.
+0:36:20 - 0:36:25: El tema de las celdas también está marcando eso.
+0:36:25 - 0:36:27: Veo ahí San Onofre.
+0:36:27 - 0:36:31: Bueno San Onofre es la ingeniería básica aparte de lo de las celdas.
+0:36:31 - 0:36:35: Este es de los proyectos que nos está apoyando EPM.
+0:36:35 - 0:36:39: Ok, pues nosotros ya emitimos la segunda revisión del diseño y no hemos...
+0:36:39 - 0:36:40: San Onofre.
+0:36:40 - 0:36:42: Sí, ese no está ahí.
+0:36:42 - 0:36:43: San Belac.
+0:36:43 - 0:36:44: ¿Seguro?
+0:36:44 - 0:36:45: Sí.
+0:36:45 - 0:36:49: Ahora lo revisamos.
+0:36:50 - 0:36:51: Bueno, ahí está San Pelayo.
+0:36:51 - 0:36:53: Santa Lucía.
+0:36:54 - 0:36:56: Santa Lucía sí, Luisca.
+0:36:56 - 0:36:57: Santa Lucía.
+0:36:57 - 0:36:59: Santa Lucía sí, ¿qué?
+0:36:59 - 0:37:7: También está con esto, o sea que está pendiente la parte de la ingeniería básica y está lo de las celdas.
+0:37:7 - 0:37:9: Que está marcando.
+0:37:9 - 0:37:11: Creo que me dice.
+0:37:11 - 0:37:12: Sí, es el de ahí.
+0:37:12 - 0:37:13: Sí.
+0:37:13 - 0:37:14: Boston 730.
+0:37:14 - 0:37:16: Boston, correcto.
+0:37:16 - 0:37:17: Yo creo que es la celda ahí.
+0:37:17 - 0:37:25: Ahí están marcando las celdas de 138, 345 y los equipos de patio que está en lo que salió aprobado pues el jueves.
+0:37:25 - 0:37:27: Están esos equipos de patio ahí lo que están marcando.
+0:37:27 - 0:37:30: Pasa porfa, Centro Alegre.
+0:37:30 - 0:37:34: Las celdas debería estar en ingeniería básica.
+0:37:34 - 0:37:36: Sí, y esa es una de las más trasadas en ingeniería.
+0:37:36 - 0:37:37: Exacto.
+0:37:37 - 0:37:38: Esa es la última.
+0:37:38 - 0:37:41: Ya se hizo la visita.
+0:37:41 - 0:37:42: Sí, exacto.
+0:37:42 - 0:37:44: Ya se hizo la visita.
+0:37:44 - 0:37:46: ¿Qué viene ahí?
+0:37:46 - 0:37:47: Podemos.
+0:37:47 - 0:37:55: Sería bueno que con todo esos proyectos que ahora que estamos haciendo la visita y nada,
+0:37:55 - 0:38:1: sigamos hasta todo lo que veamos complicado y que no haya acceso, que esto es una solicitud nueva,
+0:38:1 - 0:38:3: en eso mismo correo pronto.
+0:38:3 - 0:38:7: Y en el informe de visita está quedando eso.
+0:38:7 - 0:38:10: Está quedando un informe de visita que dice exacto.
+0:38:10 - 0:38:11: Sí, sí.
+0:38:11 - 0:38:16: Pero para no quedarnos como en este lado con el tema que está en las más más dos, ¿verdad?
+0:38:16 - 0:38:23: Fabi, ahí no sé, yo hace, antes de entrar me actualicé nuevamente porque estaba viendo algo de Coveñas
+0:38:23 - 0:38:31: y ya a mí no me presenta porque ya Coveñas está en versión 1, la ingeniería, ya la estamos revisando.
+0:38:31 - 0:38:36: Esa pequeña visita era eso, pero ya coordina acá, hablé con los chicos del grupo de ingeniería
+0:38:36 - 0:38:43: y ya eso está en revisión, la versión 1 del ingeniería, entonces ya Coveñas a mí no me estaba marcando, no sé si lo...
+0:38:43 - 0:38:44: No le dio publicando.
+0:38:44 - 0:38:46: Sí, como que no, sigo escribiendo.
+0:38:46 - 0:38:47: Ojo que no es...
+0:38:47 - 0:38:48: Ya sé.
+0:38:48 - 0:38:50: A mí le va a quedar bien aparecer en la 3A.
+0:38:50 - 0:38:52: O sea, a ti Coveñas...
+0:38:52 - 0:38:53: Nunca me pita.
+0:38:53 - 0:38:54: No, no, no.
+0:38:54 - 0:38:57: En la 3A, ya no, ya Coveñas no te va a aparecer.
+0:38:57 - 0:38:60: Coveñas ya no te marca atrás o a ti.
+0:38:60 - 0:39:1: ¿Pero a ti estoy de otras calas?
+0:39:1 - 0:39:2: ¿Guerranda?
+0:39:2 - 0:39:3: Sí, no.
+0:39:4 - 0:39:6: Ahora sí no aparece, correcto.
+0:39:6 - 0:39:7: Ahora sí no aparece.
+0:39:9 - 0:39:20: Bueno, en Guaranda ya hicieron la visita técnica, el cronograma pues ya debería ir en ingeniería básica, estamos pendientes porque nos invitan ese informe, eso es lo que está marcando ese de Biorrio Silún.
+0:39:20 - 0:39:26: Debería estar en ingeniería básica, pues apenas estamos en revisión del informe de la visita técnica.
+0:39:26 - 0:39:29: San Carlos, eso es...
+0:39:29 - 0:39:33: Eldas, lo que marca allí, Santa Elena...
+0:39:34 - 0:39:39: Igual debería estar por ingeniería básica, estamos revisando lo de la...
+0:39:39 - 0:39:43: No recuerdo si es exactamente, pero San Carlos sí, hoy sale.
+0:39:43 - 0:39:45: La primera revisión, sí.
+0:39:45 - 0:39:49: Está esperando el periodo de su novito ahí, Santa Elena.
+0:39:50 - 0:39:51: Era de una MDA.
+0:39:51 - 0:39:53: Esa es la MDA, sí.
+0:39:54 - 0:39:55: ¿Qué tal?
+0:39:55 - 0:39:56: Está esperando.
+0:39:57 - 0:39:59: Está como no me tengo ahí, si no es como...
+0:39:59 - 0:39:60: ¿Se hace?
+0:39:60 - 0:40:1: Sí, sí.
+0:40:1 - 0:40:2: Sí, sí.
+0:40:2 - 0:40:3: Pero no me tengo ahí, no sé qué.
+0:40:3 - 0:40:6: Que nos tocamos y nos tocamos unito para allá.
+0:40:7 - 0:40:9: Es que el transito está...
+0:40:10 - 0:40:11: Transito con un gran...
+0:40:11 - 0:40:13: Con un gran amigo, pero ahí no hay...
+0:40:13 - 0:40:14: Pues estamos en la verga.
+0:40:14 - 0:40:15: Estamos en la verga.
+0:40:16 - 0:40:17: ¿Qué viene allí?
+0:40:17 - 0:40:20: Candelaria, bueno, este es el proyecto que...
+0:40:21 - 0:40:26: Aquí tuvimos un avance esta semana con el tema de la aprobación de la...
+0:40:26 - 0:40:30: De la ingeniería básica en Candelaria de Control y Protección, sí.
+0:40:30 - 0:40:32: Y ahí está avanzando en la de detalles.
+0:40:32 - 0:40:37: Esa es la prioridad que tiene en estos momentos PTI, porque la conciliación es para el 30 de junio.
+0:40:37 - 0:40:38: ¿30 de junio?
+0:40:38 - 0:40:39: Sí, señor, 30 de junio.
+0:40:39 - 0:40:42: Entonces, estamos con el tiempo de PTI realmente.
+0:40:42 - 0:40:46: ¿Y ellos, de acuerdo a sus cronogramas, dónde deben ser estas ingenieras?
+0:40:46 - 0:40:47: La de detalles.
+0:40:47 - 0:40:49: No, ellos van...
+0:40:49 - 0:40:50: Es que el cuento de PTI ya...
+0:40:50 - 0:40:51: ¿Vas a regresar con ellos?
+0:40:51 - 0:40:52: Sí.
+0:40:52 - 0:40:53: Hay que pasarle ya a...
+0:40:53 - 0:40:55: Nosotros hoy tenemos una reunión con ellos porque es que yo...
+0:40:55 - 0:40:56: O sea, no entiendo.
+0:40:56 - 0:41:1: Pasen esos cronogramas con porcentajes ejecutados, pero no me ponen un comparativo como planeado y así.
+0:41:1 - 0:41:6: O sea, no es fácil de pronto hacer un seguimiento efectivo.
+0:41:6 - 0:41:8: ¿Y a lo que le hiciste?
+0:41:8 - 0:41:9: No, es que hoy tenemos...
+0:41:9 - 0:41:12: Pero es que esa manera de correr, de reunirnos, hacerlo así y listo.
+0:41:12 - 0:41:14: Y ya después se formaliza porque...
+0:41:14 - 0:41:21: Bueno, ahí los Córdobas ya emitieron informe de visita esta semana.
+0:41:21 - 0:41:25: Ahí está la cuestión de la celda y ya debería ir en ingeniería básica.
+0:41:25 - 0:41:30: Eso es lo que está ahí marcando atrás, son muñitos, el mismo tema de las celdas,
+0:41:30 - 0:41:33: y que ya debería ir en ingeniería básica.
+0:41:33 - 0:41:35: Revisión, llego ahí.
+0:41:35 - 0:41:42: La visita técnica se realizó la semana pasada y estamos a la espera del informe por parte del contratista.
+0:41:42 - 0:41:47: San Antero me marca de enviación por celda y que debería ir en ingeniería básica.
+0:41:47 - 0:41:49: ¿Qué más yo le hay?
+0:41:49 - 0:41:53: Acá hay un pequeño... ¿Qué dice? La primera cuál es? San Pedro.
+0:41:53 - 0:41:56: Y San Pedro está igual que San Antero.
+0:41:56 - 0:41:60: Debería ir en ingeniería básica y marca también el proceso de la celda.
+0:41:60 - 0:42:7: Sí, Tierra Alta ya hicimos... O sea, Tierra Alta ese pequeño porcentaje es la ingeniería del trafo realmente.
+0:42:7 - 0:42:10: Y ya hicimos una conciliación este domingo para la prueba de impedancia.
+0:42:10 - 0:42:12: Eso es lo que lo tienen aguantado.
+0:42:12 - 0:42:14: La conciliación que estaba teniendo.
+0:42:14 - 0:42:16: Exacto, así es.
+0:42:16 - 0:42:21: Montería, bueno, es lo de la celda, ya ahí la ingeniería básica estaba.
+0:42:21 - 0:42:23: ¿Qué va a pasar de año?
+0:42:23 - 0:42:25: No, esa es nueva Montería.
+0:42:25 - 0:42:27: La básica ya está.
+0:42:27 - 0:42:29: La de Calamar, sí.
+0:42:29 - 0:42:32: Ahí es el porcentaje pequeño que debería ya estar la detallada.
+0:42:32 - 0:42:34: Nos mandamos el cuantísimo.
+0:42:34 - 0:42:36: Venga, loco.
+0:42:36 - 0:42:38: Venga, loco.
+0:42:38 - 0:42:40: Venga, loco.
+0:42:40 - 0:42:42: Venga, loco.
+0:42:42 - 0:42:44: Venga, loco.
+0:42:44 - 0:42:46: Venga, loco.
+0:42:46 - 0:42:48: Venga, loco.
+0:42:48 - 0:42:50: Venga, loco.
+0:42:50 - 0:42:52: Venga, loco.
+0:42:52 - 0:42:54: Nos mandamos el cuantísimo.
+0:42:54 - 0:42:56: Venga, loco.
+0:42:56 - 0:42:58: Para mandarle el tema del cable.
+0:42:58 - 0:42:60: No, del cable.
+0:42:60 - 0:43:2: Cuando tengamos ya, digamos, la...
+0:43:2 - 0:43:4: ¿Cuánto cable hay?
+0:43:4 - 0:43:6: Cuánto cable hay, la referencia.
+0:43:6 - 0:43:8: Y mandale en un correo el tema de los terminales.
+0:43:8 - 0:43:12: Porque eso lo van a comprar ahí y eso demora como dos meses.
+0:43:12 - 0:43:15: Entonces mandale la fiquilla técnica del cable, la referencia,
+0:43:15 - 0:43:17: para que ellos me van a comprar eso.
+0:43:17 - 0:43:19: Eso es importante.
+0:43:19 - 0:43:22: Y mandale esa información para que puedan...
+0:43:22 - 0:43:24: para que yo llegue esa compra.
+0:43:24 - 0:43:26: Que se te coja.
+0:43:26 - 0:43:28: Que se te haga con los...
+0:43:28 - 0:43:30: Ellos van a comprar, van a...
+0:43:30 - 0:43:32: El suministro fue como la instalación.
+0:43:32 - 0:43:34: Es decir, no, no tenemos información.
+0:43:34 - 0:43:37: Noポn hay que tener pronto el diseño al ciencio.
+0:43:37 - 0:43:39: De pronto, si ya tenemos una...
+0:43:39 - 0:43:41: Ellos tienen el techo inclusive de esa memoria de Caltus.
+0:43:41 - 0:43:43: Porque yo creo que también la hacen ellos, ¿sabes?
+0:43:43 - 0:43:45: Revisan con MT, con este...
+0:43:45 - 0:43:47: Ah, no, no.
+0:43:47 - 0:43:49: Y se les manda el correo.
+0:43:49 - 0:43:52: Para que ellos comprensen mandando la referencia del terminal.
+0:43:52 - 0:43:54: Que tipo es el lazo, no sé qué.
+0:43:54 - 0:43:56: Que eso sí lo tenemos.
+0:43:56 - 0:43:58: Sí, señoras y señas.
+0:43:58 - 0:43:60: Listo, ahí bueno lo que es...
+0:43:60 - 0:44:2: Salguero.
+0:44:2 - 0:44:4: Eso está...
+0:44:4 - 0:44:6: Tema de la celda.
+0:44:6 - 0:44:8: Hasta ahí, Chambacú.
+0:44:8 - 0:44:10: Chambacú también.
+0:44:10 - 0:44:12: Chambacú también.
+0:44:12 - 0:44:15: En Gambote lo que está marcando es la ingeniería básica
+0:44:15 - 0:44:17: y el control y inversión.
+0:44:17 - 0:44:19: Es lo que está.
+0:44:19 - 0:44:22: Sí, que eso es PTI, que PTI sí ha sido realmente un poco
+0:44:22 - 0:44:24: desorganizado, y...
+0:44:24 - 0:44:26: Sí.
+0:44:26 - 0:44:28: En Estrella también, sí, señor.
+0:44:28 - 0:44:30: Mámonal.
+0:44:30 - 0:44:33: Igual sí, Mámonal también están marcando
+0:44:33 - 0:44:35: el tema de la celda.
+0:44:35 - 0:44:37: Bueno, avances que se tuvieron,
+0:44:37 - 0:44:39: cambios que están.
+0:44:39 - 0:44:41: De pronto, Algarrobo que aparecía con ciertos atrasos
+0:44:41 - 0:44:43: ya no aparece.
+0:44:43 - 0:44:45: Ya no aparece.
+0:44:45 - 0:44:47: Puesto que está probada la ingeniería básica, control y protecciones.
+0:44:47 - 0:44:49: Asa pues ahí...
+0:44:49 - 0:44:51: Otro tema ya el miércoles pues
+0:44:51 - 0:44:53: estoy coordinando con Sebas para que
+0:44:53 - 0:44:56: acompañemos a Asa en Al Popular a revisar los tableros.
+0:44:56 - 0:44:59: Fue la idea que Sebastián nos dio el lunes pasado.
