@@ -16,7 +16,7 @@ print("--------------------------------------------------------------------")
 
 # Provide the path to the video file and the language code ('es' for Spanish)
 # path in windows
-video_path = r"C:\Users\alromero\Videos\AFINIA - Seguimiento Programa Alta Tensión (2023-12-11 10_15 GMT-5).mp4"
+video_path = r"C:\Users\alromero\Videos\AFINIA - Seguimiento Programa Alta Tensión (2024-04-01 10_19 GMT-5).mp4"
 
 # path in linux
 # video_path = "/home/alejandro/Vídeos/Videograbación 2023-05-04 15:35:21.mp4"
@@ -36,7 +36,7 @@ my_clip.audio.write_audiofile(r"my_result.mp3")
 # | medium |   769 M    |    `medium.en`     |      `medium`      |     ~5 GB     |      ~2x       |
 # | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
 
-model = whisper.load_model("large")
+model = whisper.load_model("medium")
 # load audio and pad/trim it to fit 30 seconds
 
 spinner = Spinner("Loading model to audio ")
@@ -50,8 +50,8 @@ spinner.finish()
 
 
 # detect the spoken language
-_, probs = model.detect_language(mel)
-print(f"Detected language: {max(probs, key=probs.get)}")
+# _, probs = model.detect_language(mel)
+# print(f"Detected language: {max(probs, key=probs.get)}")
 
 print("--------------------------------------------------------------------")
 
